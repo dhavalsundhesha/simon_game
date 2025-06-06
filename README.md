@@ -17,4 +17,7 @@ CSS: For styling and animations
 
 JavaScript: For game logic and interactivity
 
-DOM Manipulation: To update the game state and handle user interactions
+DOM Manipulation: To update the game state and handle user interactions..
+
+# Author 
+Dhaval_sundhesha .
