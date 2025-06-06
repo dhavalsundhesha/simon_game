@@ -2,7 +2,7 @@
 Simon Game built with HTML & CSS AND JS .
 
 # Features
-4 Interactive Boxes: The game features four colored boxes (red, blue, green, and yellow) that light up and play sounds when activated.
+4 Interactive Boxes: The game features four colored boxes (red, purple, green, and yellow) that light up and play sounds when activated.
 
 Score Tracking: Keeps track of the player's current level (score) as they progress through the game.
 
